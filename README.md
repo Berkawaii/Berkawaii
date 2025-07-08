@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello, I'm Berkay Acar</div>
+# <div align="center">👋 Hello there, I'm Berkay Acar</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge" alt="Fullstack Developer"/>
