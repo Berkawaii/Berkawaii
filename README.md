@@ -107,8 +107,3 @@ A fantasy-themed mobile application for managing D&D characters and tabletop RPG
 - 🐱 [GitHub](https://github.com/berkawaii)
 - 📧 [Email](mailto:acar.berkay@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=berkawaii&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
