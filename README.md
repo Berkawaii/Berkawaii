@@ -95,15 +95,9 @@ A fantasy-themed mobile application for managing D&D characters and tabletop RPG
 - 🔗 [GitHub](https://github.com/Berkawaii/AdventurersLedger/tree/main)
 - 💻 **Tech Stack:** Flutter, RESTful API, Firebase, Open5e, Dart
 
-## 📊 Areas of Expertise
-
-- 📱 **Mobile App Development:** Cross-platform mobile apps built with Flutter and Dart
-- 🌐 **Modern Web Development:** High-performance web applications using React, TypeScript, and modern JavaScript
-- 🔧 **Backend Solutions:** Robust, secure, and scalable APIs with .NET Core and C#
 
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/im-berkay/)
-- 🐱 [GitHub](https://github.com/berkawaii)
 - 📧 [Email](mailto:acar.berkay@gmail.com)
 
