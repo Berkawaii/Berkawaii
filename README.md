@@ -57,45 +57,6 @@ I'm a fullstack developer with over 4 years of experience building comprehensive
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Agile/Scrum](https://img.shields.io/badge/Agile/Scrum-009FDA?style=flat-square&logo=jira&logoColor=white)
 
-## 🌟 Featured Projects
-
-### Dipo (Düzey Market)
-
-A Flutter-based mobile app integrated with NopCommerce web platform. Features barcode scanning, stock checks, and personalized features.
-
-- 🔗 [Website](https://duzeymarket.com)
-- 📱 [App Store](https://apps.apple.com/tr/app/d%C3%BCzey-market/id6738417631)
-- 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.duzey.duzey_market_mobil)
-- 💻 **Tech Stack:** React, Flutter, .NET, RESTful API, NopCommerce
-
-### UniCoWallet
-
-An e-commerce and product management solution with a Flutter mobile app and NopCommerce web backend.
-
-- 🔗 [Website](https://unicowallet.duzey.com.tr/)
-- 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.duzey.masraf&hl=en)
-- 💻 **Tech Stack:** Flutter, Firebase, RESTful API, Riverpod
-
-### SATURUN
-
-A field productivity app for mobile sales and operations teams with offline-first architecture.
-
-- 💻 **Tech Stack:** React, .NET, PostgreSQL, Flutter, RESTful API, Firebase, Bloc
-
-### DDR (Dynamic Delivery Routing)
-
-AI-powered smart route prediction system that optimized delivery paths and reduced vehicle usage by 50%.
-
-- 💻 **Tech Stack:** Angular, TypeScript, Java, Python
-
-### Adventurer's Ledger
-
-A fantasy-themed mobile application for managing D&D characters and tabletop RPGs.
-
-- 🔗 [GitHub](https://github.com/Berkawaii/AdventurersLedger/tree/main)
-- 💻 **Tech Stack:** Flutter, RESTful API, Firebase, Open5e, Dart
-
-
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/im-berkay/)
