@@ -46,7 +46,8 @@ Life outside the terminal and VS Code:
 ---
 
 ### Connect with Me
-* **Portfolio:** [Berkawaii](https://github.com/Berkawaii)
+* **Resume:** [Berkay_Acar_Fullstack_Developer_Resume.pdf](https://github.com/user-attachments/files/27157072/Berkay_Acar_Fullstack_Developer_Resume.pdf)
+
 * **Email:** [acar.berkai@gmail.com](mailto:acar.berkai@gmail.com)
 * **Languages:** English (Native/Bilingual), Turkish (Native/Bilingual), Russian (Elementary).
 
