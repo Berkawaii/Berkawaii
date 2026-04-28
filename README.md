@@ -1,64 +1,53 @@
-# <div align="center">👋 Hello there, I'm Berkay Acar</div>
+# Hi there, I'm Berkay Acar! 👋
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge" alt="Fullstack Developer"/>
-  <img src="https://img.shields.io/badge/Experience-4+_Years-green?style=for-the-badge" alt="4+ Years Experience"/>
-  <img src="https://img.shields.io/badge/Projects-10+-orange?style=for-the-badge" alt="10+ Projects"/>
-</div>
+### Full Stack Developer | Enterprise Solutions Architect | AI Enthusiast
+**Istanbul, Turkey** 📍
 
-<br />
+I am a **Full Stack Developer** with over **4 years of experience** specializing in designing and implementing scalable web and mobile applications using **React**, **.NET Core**, and **Flutter**. I have deep expertise in building enterprise-level e-commerce and B2B solutions, particularly leveraging the **nopCommerce** platform to streamline field operations.
 
-<div align="center">
-  <p>A versatile fullstack developer with a passion for building comprehensive, user-centered, and scalable applications.</p>
-</div>
+---
 
-## 💼 About Me
+### What I Do
+* **Modernizing Legacy Systems:** Expert in migrating and modernizing legacy **Java/Angular** projects into high-performance **.NET and React** architectures.
+* **Enterprise Mobility:** Architected cross-platform B2B and SFA (Sales Force Automation) mobile applications.
+* **Efficiency Driven:** Proven track record in optimizing operational efficiency, including a **75% reduction in paperwork** through digital wallet solutions like **UniCoWallet**.
+* **AI-Driven Development:** Advanced practitioner of AI-assisted coding tools (**Cursor, Windsurf, Copilot**) to maximize productivity and code quality.
 
-I'm a fullstack developer with over 4 years of experience building comprehensive, user-centered, and scalable applications. I specialize in delivering end-to-end solutions—from frontend UI/UX to backend API integration.
+---
 
-- 💻 Currently working as a **Software Developer @ Düzey**
-- 🚀 Successfully delivered **10+ projects** across web and mobile platforms
-- 🔧 Proven track record in optimizing processes and improving performance by **40%**
-- 🌟 Passionate about creating efficient and elegant code solutions
+### Tech Stack
 
-## 🛠️ Technical Skills
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, JavaScript, HTML5, SCSS, Zustand, React Query |
+| **Backend** | .NET Core, C#, Java, Spring, RESTful APIs, Microservices |
+| **Mobile** | Flutter, Dart, Riverpod, GetX, Provider, Swift |
+| **Database** | MSSQL, PostgreSQL, SQLite, Hive, Firebase Realtime DB |
+| **Cloud/DevOps** | Azure DevOps, GitHub, GitLab, CI/CD, Firebase |
+| **Architecture** | MVVM, MVC, SOLID, Atomic Design |
 
-### Frontend
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Featured Projects
 
-### Backend
+* **UniCoWallet:** A digital wallet and expense management application that significantly reduced administrative overhead.
+* **Fleet Tracking System:** A comprehensive system for real-time vehicle monitoring and data-driven logistics management.
+* **Approval Management System:** A custom **nopCommerce-based** system centralizing field-originated requests with end-to-end traceability.
+* **Cruwell's Vox:** A high-quality communication application developed for the local market.
 
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+---
 
-### Mobile
+### Beyond the Code
+Life outside the terminal and VS Code:
+* I'm likely working on my classic **1987 Honda Accord**, affectionately named Akai Kikende.
+* Developing a web-based **autobattler game** inspired by mechanics like Teamfight Tactics.
+* Hanging out with my cat, **Pekmez**.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+---
 
-### Database
+### Connect with Me
+* **Portfolio:** [Berkawaii](https://github.com/Berkawaii)
+* **Email:** [acar.berkai@gmail.com](mailto:acar.berkai@gmail.com)
+* **Languages:** English (Native/Bilingual), Turkish (Native/Bilingual), Russian (Elementary).
 
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Tools & Others
-
-![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-FF61F6?style=flat-square&logo=figma&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile/Scrum-009FDA?style=flat-square&logo=jira&logoColor=white)
-
-## 📫 Get in Touch
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/im-berkay/)
-- 📧 [Email](mailto:acar.berkay@gmail.com)
-
+---
